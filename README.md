@@ -1,0 +1,2 @@
+- Download yolo.h5 from https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5
+- download image.png from https://cdn.analyticsvidhya.com/wp-content/uploads/2018/06/I1_2009_09_08_drive_0012_001351-768x223.png

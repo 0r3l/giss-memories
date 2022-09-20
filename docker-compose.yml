@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+  jupyter-notebook:    
+    build: .
+    ports:
+      - 8889:8888
+    volumes:
+    - ./:/opt/notebooks
